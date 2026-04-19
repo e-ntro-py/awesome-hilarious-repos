@@ -50,6 +50,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [FalseJS](https://github.com/enterprise-npm-ai/FalseJS) - JS library that makes sure false always exists by redefining it in every possible (and impossible) way.
 
 ## Standalone projects
+- [Obamify](https://github.com/Spu7Nix/obamify) - "revolutionary new technology that turns any image into Obama"
 - [my_first_calculator](https://github.com/AceLewis/my_first_calculator.py) - the BEST way EVER to build command line calculators, look the source code
 - [FizzBuzz Enterprise edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - following all possible standards and patterns to write a FizzBuzz
 - [EnterpriseFizzBuzz](https://github.com/Elijah-J/EnterpriseFizzBuzz) - 622K lines of production-grade FizzBuzz with 253 infrastructure subsystems, including a blockchain, neural network, quantum simulator, and OS kernel.
