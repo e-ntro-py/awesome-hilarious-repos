@@ -22,6 +22,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [Git Musak](https://github.com/mroth/git-muzak) - Inserts the currently playing iTunes or Spotify track in your git commit messages
 - [I-Made-THIS](https://github.com/alichtman/i-made-this) - Why build impressive things when many devs already did it? So copy someone else's code and take credit for it!
 - [Git-self-blame](https://github.com/JacobEvelyn/git-self-blame) - is a simple git plugin that lets you take the blame for code you didn't write!!!
+- [Git Blame Someone Else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code. - Linus Torvalds
 - [Git-vanity-sha](https://github.com/mattbaker/git-vanity-sha) - try to tweak the last commit commiter's timestamp to create a commit SHA using the hex prefix you supply
 - [lolcommits](https://github.com/lolcommits/lolcommits) - takes a snapshot with your webcam every time you git commit code, and archives a lolcat style image with it!
 - [GitHub Drama](https://github.com/neodrama/github-drama) - lists of dramatic github discussions, lol
